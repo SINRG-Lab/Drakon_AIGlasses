@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "speaker_v2")(type "KiCad")(uri "/Users/akashkotagi/Desktop/All_PCB/pcbv3/pcbv3_right /Symbol_Libraries/speaker_v2.pretty")(options "")(descr ""))
+  (lib (name "MAX98357A")(type "KiCad")(uri "/Users/akashkotagi/Desktop/All_PCB/pcbv3/pcbv3_right /Symbol_Libraries/MAX98357A.pretty")(options "")(descr ""))
+  (lib (name "HRS_TF31-6S-0.5SH_800_")(type "KiCad")(uri "/Users/akashkotagi/Desktop/All_PCB/pcbv3/pcbv3_right /Symbol_Libraries/HRS_TF31-6S-0.5SH_800_.pretty")(options "")(descr ""))
+  (lib (name "c6")(type "KiCad")(uri "/Users/akashkotagi/Desktop/All_PCB/pcbv3/pcbv3_right /Symbol_Libraries/c6.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,12 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C3";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";1;"0.1UF";;;
+2;"U2";"QFN50P300X300X80-17N";1;"MAX98357AETE_T";;;
+3;"FB1,FB2";"L_0805_2012Metric_Pad1.05x1.20mm_HandSolder";2;"FerriteBead";;;
+4;"R3,R2";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";2;"100k";;;
+5;"U1";"MODULE_113991254";1;"113991254";;;
+6;"C2,C1";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";2;"220PF";;;
+7;"J1";"HRS_TF31-6S-0.5SH_800_";1;"TF31-6S-0.5SH_800_";;;
+8;"C4";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";1;"10UF";;;
+9;"SW1";"SW_PUSH_6mm_H5mm";1;"SW_Push";;;
+10;"R1";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"47k";;;
+11;"J2";"PinHeader_1x02_P2.54mm_Vertical";1;"speaker";;;

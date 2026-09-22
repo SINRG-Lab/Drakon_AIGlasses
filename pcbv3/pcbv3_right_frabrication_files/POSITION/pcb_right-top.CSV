@@ -1,0 +1,17 @@
+### Footprint positions - created on 2026-05-13T13:08:00-0400 ###
+### Printed by KiCad version 9.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                 Package                                           PosX       PosY       Rot  Side
+C1        220PF               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   134.9625   -59.4000    0.0000  top
+C2        220PF               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   136.9625   -51.1000  180.0000  top
+C3        0.1UF               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   131.0250   -59.1000    0.0000  top
+C4        10UF                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   131.0250   -56.9000    0.0000  top
+FB1       FerriteBead         L_0805_2012Metric_Pad1.05x1.20mm_HandSolder   134.0125   -52.2000   90.0000  top
+FB2       FerriteBead         L_0805_2012Metric_Pad1.05x1.20mm_HandSolder   133.9625   -56.4000  -90.0000  top
+J1        TF31-6S-0.5SH_800_  HRS_TF31-6S-0.5SH_800_                        137.2000   -64.9000  -90.0000  top
+R1        47k                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   127.6625   -56.8500  -90.0000  top
+R2        100k                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   125.6125   -56.8000  -90.0000  top
+R3        100k                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   124.3000   -68.0000   90.0000  top
+U2        MAX98357AETE_T      QFN50P300X300X80-17N                          130.8975   -53.6000    0.0000  top
+## End

@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CMS-15116-SP")(type "KiCad")(uri "/Users/akashkotagi/Desktop/All_PCB/pcbv3/pcbv3_right /Symbol_Libraries/CMS-15116-SP/CMS-15116-SP.kicad_sym")(options "")(descr ""))
+  (lib (name "TF31-6S-0.5SH_800_")(type "KiCad")(uri "/Users/akashkotagi/Desktop/All_PCB/pcbv3/pcbv3_right /Symbol_Libraries/HRS_TF31-6S-0.5SH_800_.pretty/TF31-6S-0.5SH_800_.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX98357AETE_T")(type "KiCad")(uri "/Users/akashkotagi/Desktop/All_PCB/pcbv3/pcbv3_right /Symbol_Libraries/MAX98357AETE_T/MAX98357AETE_T.kicad_sym")(options "")(descr ""))
+  (lib (name "c6")(type "KiCad")(uri "/Users/akashkotagi/Desktop/All_PCB/pcbv3/pcbv3_right /Symbol_Libraries/c6.pretty/c6.kicad_sym")(options "")(descr ""))
+)
