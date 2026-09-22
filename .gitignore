@@ -1,0 +1,54 @@
+# --- Secrets -----------------------------------------------------------
+# Firmware credentials. Commit config.h.template instead.
+**/src/config.h
+*.env
+.env
+
+# --- Firmware builds ---------------------------------------------------
+.pio/
+.pioenvs/
+.piolibdeps/
+build/
+*.elf
+*.bin
+*.hex
+*.map
+
+# --- KiCad -------------------------------------------------------------
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*-cache.lib
+fp-info-cache
+\#auto_saved_files#
+
+# --- Altium / Eagle ----------------------------------------------------
+History/
+Project Logs*/
+*.PcbDoc.*
+*.SchDoc.*
+*.b#*
+*.s#*
+
+# --- CAD lock and autosave files ---------------------------------------
+~$*
+*.SLDPRT.bak
+*.SLDASM.bak
+*.f3d.lock
+
+# --- Slicer output -----------------------------------------------------
+*.gcode
+
+# --- Python tooling ----------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# --- Editors and OS ----------------------------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp

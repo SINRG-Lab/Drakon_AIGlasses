@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "c6")(type "KiCad")(uri "${KIPRJMOD}/../../shared/symbols/c6.pretty/c6.kicad_sym")(options "")(descr "Seeed XIAO ESP32-C6"))
+  (lib (name "MAX98357AETE_T")(type "KiCad")(uri "${KIPRJMOD}/../../shared/symbols/MAX98357AETE_T/MAX98357AETE_T.kicad_sym")(options "")(descr "MAX98357A I2S amplifier"))
+  (lib (name "TF31-6S-0.5SH_800_")(type "KiCad")(uri "${KIPRJMOD}/../../shared/symbols/HRS_TF31-6S-0.5SH_800_.pretty/TF31-6S-0.5SH_800_.kicad_sym")(options "")(descr "Hirose TF31 6-pin FPC connector"))
+  (lib (name "CMS-15116-SP")(type "KiCad")(uri "${KIPRJMOD}/../../shared/symbols/CMS-15116-SP/CMS-15116-SP.kicad_sym")(options "")(descr "CUI CMS-15116-SP speaker"))
+)

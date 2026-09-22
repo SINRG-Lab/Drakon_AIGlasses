@@ -1,0 +1,31 @@
+# Large binary assets are stored in Git LFS. Run `git lfs install` once per
+# clone before adding any file matching these patterns.
+
+# 3D meshes
+*.stl     filter=lfs diff=lfs merge=lfs -text
+*.STL     filter=lfs diff=lfs merge=lfs -text
+*.3mf     filter=lfs diff=lfs merge=lfs -text
+*.obj     filter=lfs diff=lfs merge=lfs -text
+*.ply     filter=lfs diff=lfs merge=lfs -text
+
+# CAD source
+*.step    filter=lfs diff=lfs merge=lfs -text
+*.STEP    filter=lfs diff=lfs merge=lfs -text
+*.stp     filter=lfs diff=lfs merge=lfs -text
+*.iges    filter=lfs diff=lfs merge=lfs -text
+*.f3d     filter=lfs diff=lfs merge=lfs -text
+*.f3z     filter=lfs diff=lfs merge=lfs -text
+*.sldprt  filter=lfs diff=lfs merge=lfs -text
+*.SLDPRT  filter=lfs diff=lfs merge=lfs -text
+*.sldasm  filter=lfs diff=lfs merge=lfs -text
+*.SLDASM  filter=lfs diff=lfs merge=lfs -text
+
+# Fabrication and documentation binaries
+*.pdf     filter=lfs diff=lfs merge=lfs -text
+*.zip     filter=lfs diff=lfs merge=lfs -text
+*.gbr     filter=lfs diff=lfs merge=lfs -text
+
+# Text formats that should never be line-ending converted or auto-merged
+*.kicad_pcb  text eol=lf -merge
+*.kicad_sch  text eol=lf -merge
+*.csv        text eol=lf
