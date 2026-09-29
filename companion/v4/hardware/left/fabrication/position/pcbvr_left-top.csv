@@ -1,0 +1,32 @@
+### Footprint positions - created on 2026-06-01T16:07:39-0400 ###
+### Printed by KiCad version 9.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                            Package                                                      PosX       PosY       Rot  Side
+C1        1UF                            C_0805_2012Metric                                        175.2854   -43.4442  -90.0000  top
+C2        0.1UF                          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder              152.6787   -46.0248  180.0000  top
+C3        10UF                           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder              152.6787   -48.0568  180.0000  top
+C4        220PF                          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder              158.5253   -39.5324  180.0000  top
+C5        220PF                          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder              158.5507   -47.8536    0.0000  top
+C6        4.7uf                          C_0805_2012Metric                                        184.2770   -45.2476   90.0000  top
+C7        4.7uf                          C_0805_2012Metric                                        181.0512   -47.4878  -90.0000  top
+D1        LED_R                          LED_0805_2012Metric                                      186.2582   -41.5351  -90.0000  top
+D2        LED_G                          LED_0805_2012Metric                                      187.1703   -44.2722    0.0000  top
+FB1       FerriteBead                    L_0805_2012Metric_Pad1.05x1.20mm_HandSolder              155.6974   -41.3188   90.0000  top
+FB2       FerriteBead                    L_0805_2012Metric_Pad1.05x1.20mm_HandSolder              155.7122   -45.3460  -90.0000  top
+J1        USB_C_Receptacle_PowerOnly_6P  USB_C_Receptacle_GCT_USB4125-xx-x_6P_TopMnt_Horizontal   166.3378   -46.4632    0.0000  top
+J3        TF31-6S-0.5SH_800_             HRS_TF31-6S-0.5SH_800_                                   142.3826   -44.2396   90.0000  top
+R1        100k                           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder              149.6314   -46.8530  -90.0000  top
+R2        5.1K                           R_0805_2012Metric                                        164.5685   -40.8940    0.0000  top
+R3        5.1K                           R_0805_2012Metric                                        168.0991   -40.8686  180.0000  top
+R4        4.12k                          R_0805_2012Metric                                        174.9552   -47.4999   90.0000  top
+R5        46.4k                          R_0805_2012Metric                                        172.9486   -47.4999   90.0000  top
+R6        1.18k                          R_0805_2012Metric                                        178.1302   -40.6146    0.0000  top
+R7        1.13k                          R_0805_2012Metric                                        176.9872   -47.4999   90.0000  top
+R8        1.5K                           R_0805_2012Metric                                        188.2902   -41.5309  -90.0000  top
+R9        10k                            R_0805_2012Metric                                        178.9938   -47.4980  -90.0000  top
+R10       1.5K                           R_0805_2012Metric                                        187.1980   -46.2788    0.0000  top
+SW1       SW_SPDT                        SW_SPDT_PCM12                                            193.7900   -39.9974  180.0000  top
+U1        MAX98357AETE_T                 QFN50P300X300X80-17N                                     152.6454   -42.8226    0.0000  top
+U2        BQ24074RGT                     VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm                     181.0248   -43.3932   90.0000  top
+## End

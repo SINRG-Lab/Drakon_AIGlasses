@@ -1,4 +1,4 @@
-# 3D Models — companion/v4
+# 3D Models — companion/v3
 
 - `cad/` — editable source (STEP, SLDPRT, F3D). Always commit this.
 - `exports/` — print-ready meshes (STL, 3MF), exported from `cad/`

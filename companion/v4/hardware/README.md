@@ -1,4 +1,4 @@
-# Hardware — companion/v4
+# Hardware — companion/v3
 
 Two boards, one per temple.
 

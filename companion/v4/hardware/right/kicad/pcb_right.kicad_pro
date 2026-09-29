@@ -658,16 +658,16 @@
       {
         "filename": "pcb_right.kicad_sch",
         "name": "pcb_right",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U1,U3,#PWR10,#PWR18-23,C5-7",
     "variants": []
   },
   "sheets": [
     [
       "a00f517e-5f07-4f05-b259-a87d5d4ef0d7",
-      "Root"
+      "pcb_right"
     ]
   ],
   "text_variables": {},

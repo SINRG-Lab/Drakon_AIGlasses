@@ -52,3 +52,11 @@ venv/
 .DS_Store
 Thumbs.db
 *.swp
+
+# KiCad local history
+.history/
+*-backups/
+*.kicad_prl
+fp-info-cache
+~*.lck
+_autosave-*
