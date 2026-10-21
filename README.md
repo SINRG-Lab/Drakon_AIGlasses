@@ -1,10 +1,10 @@
 # Drakon AI Glasses
 
-Hardware, firmware, and 3D models for the Drakon AI smart glasses.
+Hardware, firmware, 3D models, and the companion iOS app for Drakon AI smart glasses.
 
 This repository is the single home for everything physical and embedded: board
-designs, embedded firmware, and printable frame parts. Application code,
-measurement studies, and companion apps live in other repositories.
+designs, embedded firmware, printable frame parts, and the companion iOS app.
+Measurement studies and backend services live in other repositories.
 
 ## Editions
 
@@ -59,6 +59,13 @@ common/                  Shared across editions and versions
 docs/
 ├── specs/  assembly/  bring-up/  versioning.md
 ```
+
+The companion edition also contains the XIAO development firmware at
+[`companion/firmware/S3_App_V2/`](companion/firmware/S3_App_V2/) and the iOS
+app at [`companion/ios/`](companion/ios/). These came from the MK3.5 development
+work; the firmware targets **XIAO ESP32-S3 Sense**, with its own pin map. It is
+not a firmware release for the ESP32-C6 v3 boards. See the
+[companion setup instructions](companion/README.md#software).
 
 ## Conventions
 
