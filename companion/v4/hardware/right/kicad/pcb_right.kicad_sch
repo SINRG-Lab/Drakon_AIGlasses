@@ -1799,6 +1799,244 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "DFE252012F-2R2M=P2_1"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "L"
+				(at -7.62 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "2.2uH"
+				(at -7.62 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "Master_lib:INDC2520X120N"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Inductor with Inductance: 2.2uH Tol. +/-20%, Package: 1008 (2520)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MF" "Murata"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Package" "2520 Murata"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/DFE252012F-2R2M=P2/Murata/view-part/?ref=snap"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MP" "DFE252012F-2R2M=P2"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/DFE252012F-2R2M=P2/Murata/view-part/?ref=eda"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(symbol "DFE252012F-2R2M=P2_1_0_0"
+				(arc
+					(start -5.08 0)
+					(mid -3.81 1.2645)
+					(end -2.54 0)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -2.54 0)
+					(mid -1.27 1.2645)
+					(end 0 0)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 0)
+					(mid 1.27 1.2645)
+					(end 2.54 0)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 2.54 0)
+					(mid 3.81 1.2645)
+					(end 5.08 0)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -1937,349 +2175,6 @@
 					(at 0 -3.81 90)
 					(length 2.794)
 					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Device:FerriteBead"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "FB"
-				(at -3.81 0.635 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "FerriteBead"
-				(at 3.81 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at -1.778 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Ferrite bead"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "L ferrite bead inductor filter"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "Inductor_* L_* *Ferrite*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "FerriteBead_0_1"
-				(polyline
-					(pts
-						(xy -2.7686 0.4064) (xy -1.7018 2.2606) (xy 2.7686 -0.3048) (xy 1.6764 -2.159) (xy -2.7686 0.4064)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy 0 1.2954)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0 -1.2192)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "FerriteBead_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Device:L"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "L"
-				(at -1.27 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "L"
-				(at 1.905 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Inductor"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "inductor choke coil reactor magnetic"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "Choke_* *Coil* Inductor_* L_*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "L_0_1"
-				(arc
-					(start 0 2.54)
-					(mid 0.6323 1.905)
-					(end 0 1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 1.27)
-					(mid 0.6323 0.635)
-					(end 0 0)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 0)
-					(mid 0.6323 -0.635)
-					(end 0 -1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 -1.27)
-					(mid 0.6323 -1.905)
-					(end 0 -2.54)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "L_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2639,7 +2534,208 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MAX98357AETE_T:MAX98357AETE_T"
+		(symbol "Lib_Solar_panels:BLM21PG600SN1D"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "FB"
+				(at 16.51 7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "BLM21PG600SN1D"
+				(at 16.51 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "Master_lib:BLM21AG102BH1J"
+				(at 16.51 -94.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Datasheet" "https://www.murata.com/en-us/products/productdetail?partno=BLM21PG600SN1%23"
+				(at 16.51 -194.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Description" "Murata Ferrite Bead (Chip Ferrite Bead), 2 x 1.25 x 0.85mm (805), 60 impedance at 100 MHz"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Height" "1.05"
+				(at 16.51 -394.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Mouser Part Number" "81-BLM21P600S"
+				(at 16.51 -494.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/BLM21PG600SN1D?qs=LbqjZSvnDswFXSg06XQ50A%3D%3D"
+				(at 16.51 -594.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Manufacturer_Name" "Murata Electronics"
+				(at 16.51 -694.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Manufacturer_Part_Number" "BLM21PG600SN1D"
+				(at 16.51 -794.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(symbol "BLM21PG600SN1D_0_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 2.5146 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.4036 -2.7686) (xy 1.5494 -1.7018) (xy 4.1148 2.7686) (xy 5.969 1.6764) (xy 3.4036 -2.7686)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 5.0292 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "BLM21PG600SN1D_1_1"
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "MAX98357AETE_T_1"
 			(pin_names
 				(offset 1.016)
 			)
@@ -2693,18 +2789,7 @@
 					)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "MF" "Analog Devices"
+			(property "Description" "Tiny, Low-Cost, PCM Class D Amplifier with Class AB Performance"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2716,7 +2801,7 @@
 					(justify bottom)
 				)
 			)
-			(property "Description_1" "Tiny, Low-Cost, PCM Class D Amplifier with Class AB Performance"
+			(property "MF" "Analog Devices"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2812,7 +2897,7 @@
 					(justify bottom)
 				)
 			)
-			(symbol "MAX98357AETE_T_0_0"
+			(symbol "MAX98357AETE_T_1_0_0"
 				(rectangle
 					(start -12.7 -15.24)
 					(end 12.7 15.24)
@@ -2871,24 +2956,6 @@
 						)
 					)
 					(number "3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -17.78 -2.54 0)
-					(length 5.08)
-					(name "SD_MODE"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "4"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -3054,6 +3121,98 @@
 						)
 					)
 					(number "17"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(symbol "MAX98357AETE_T_1_1_0"
+				(pin input line
+					(at -17.78 -2.54 0)
+					(length 5.08)
+					(name "~{SD_MODE}"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 17.78 1.27 180)
+					(length 5.08)
+					(name "NC"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 17.78 -1.27 180)
+					(length 5.08)
+					(name "NC"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 17.78 -3.81 180)
+					(length 5.08)
+					(name "NC"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 17.78 -6.35 180)
+					(length 5.08)
+					(name "NC"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "13"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -6938,13 +7097,7 @@
 		(uuid "2541db53-5c80-4425-8c9c-297248ed1047")
 	)
 	(junction
-		(at 218.44 114.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2d4c7291-9f81-497e-9777-a6825a29f275")
-	)
-	(junction
-		(at 177.8 27.94)
+		(at 180.34 27.94)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "35f3e950-8302-4f40-a399-c9bae312e658")
@@ -6986,7 +7139,7 @@
 		(uuid "4a1662be-aac7-4def-824c-1a004e31d18a")
 	)
 	(junction
-		(at 168.91 27.94)
+		(at 171.45 27.94)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4c589de5-9bb5-4b4e-a2a9-8de5996eb87a")
@@ -6998,19 +7151,13 @@
 		(uuid "57bff86d-ea38-48d3-8980-15d3c7385d56")
 	)
 	(junction
-		(at 68.58 20.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "59048425-e0cb-4714-b0af-b44cb58019a9")
-	)
-	(junction
 		(at 134.62 27.94)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5b7ad4da-23c6-4eff-907a-2c3f43a57c79")
 	)
 	(junction
-		(at 182.88 27.94)
+		(at 185.42 27.94)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5fe13175-d50c-472d-918b-3768b33a20f3")
@@ -7022,7 +7169,7 @@
 		(uuid "63e38e0c-6fff-4aac-bc0c-8cc6dd67c191")
 	)
 	(junction
-		(at 154.94 53.34)
+		(at 157.48 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "66d41062-752b-476f-8d02-02ef6bbd2176")
@@ -7046,7 +7193,7 @@
 		(uuid "788e2889-dd00-4763-8280-8c7f5143162b")
 	)
 	(junction
-		(at 147.32 33.02)
+		(at 149.86 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7cc79c47-ebeb-4eef-b72f-99ab72734dff")
@@ -7088,12 +7235,6 @@
 		(uuid "a43eb55f-0ce9-4bd6-bab7-0850144a10a5")
 	)
 	(junction
-		(at 147.32 35.56)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a629b4fc-86cc-4efc-b1b4-f238bbf077a7")
-	)
-	(junction
 		(at 125.73 27.94)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7118,6 +7259,12 @@
 		(uuid "b6823ef8-4251-4735-b7a8-0c14cbeda673")
 	)
 	(junction
+		(at 218.44 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b8cd05d9-71d2-4f65-8353-7cb92cdaac3e")
+	)
+	(junction
 		(at 256.54 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7140,6 +7287,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eb5c81f1-a2ac-407b-bfcb-65af1e792161")
+	)
+	(junction
+		(at 149.86 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f62a5e06-5404-4bda-8c4a-dfec42b9efb2")
 	)
 	(junction
 		(at 80.01 20.32)
@@ -7210,10 +7363,6 @@
 	(no_connect
 		(at 226.06 26.67)
 		(uuid "9b843713-5f95-4c8b-9660-3118e29d6e94")
-	)
-	(no_connect
-		(at 44.45 114.3)
-		(uuid "b44c9f8a-d500-47d2-a513-a36e65c2c9a0")
 	)
 	(no_connect
 		(at 86.36 82.55)
@@ -7509,6 +7658,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 127) (xy 76.2 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f319169-ec21-4404-846a-d1863cf49e31")
+	)
+	(wire
+		(pts
 			(xy 222.25 69.85) (xy 226.06 69.85)
 		)
 		(stroke
@@ -7546,6 +7705,16 @@
 			(type default)
 		)
 		(uuid "317f5c35-dfa0-42a1-957b-8db0eb9f119e")
+	)
+	(wire
+		(pts
+			(xy 148.59 36.83) (xy 148.59 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "330f2598-4e1e-4537-bf0b-e12835139453")
 	)
 	(wire
 		(pts
@@ -7619,17 +7788,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 129.54) (xy 88.9 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "424742d1-29cb-470c-be30-5c12df4fdae6")
-	)
-	(wire
-		(pts
-			(xy 154.94 53.34) (xy 157.48 53.34)
+			(xy 157.48 53.34) (xy 160.02 53.34)
 		)
 		(stroke
 			(width 0)
@@ -7656,6 +7815,36 @@
 			(type default)
 		)
 		(uuid "437fb9cf-84c2-4e12-bc5d-9da213b83669")
+	)
+	(wire
+		(pts
+			(xy 59.69 114.3) (xy 55.88 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43f5c65e-dc8c-43e1-aa68-fc34f7c57d13")
+	)
+	(wire
+		(pts
+			(xy 148.59 48.26) (xy 149.86 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4613de85-9eb3-4ff5-ba04-e882e0b895ce")
+	)
+	(wire
+		(pts
+			(xy 148.59 38.1) (xy 149.86 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47c8bd0f-a6dd-4977-854c-27b7de84df6e")
 	)
 	(wire
 		(pts
@@ -7769,7 +7958,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 20.32) (xy 71.12 20.32)
+			(xy 54.61 20.32) (xy 71.12 20.32)
 		)
 		(stroke
 			(width 0)
@@ -7809,7 +7998,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 27.94) (xy 185.42 27.94)
+			(xy 180.34 27.94) (xy 187.96 27.94)
 		)
 		(stroke
 			(width 0)
@@ -7839,13 +8028,13 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 129.54) (xy 76.2 129.54)
+			(xy 148.59 52.07) (xy 148.59 48.26)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5ff7bd23-1cb7-48bc-af0a-ab57a8e93b97")
+		(uuid "5ff4ace8-67f2-42be-8e5b-87f99c8741c8")
 	)
 	(wire
 		(pts
@@ -7856,6 +8045,16 @@
 			(type default)
 		)
 		(uuid "62f35633-8a66-4717-9674-013050597ee5")
+	)
+	(wire
+		(pts
+			(xy 73.66 129.54) (xy 76.2 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63395059-7396-4cdb-85b3-84872e8492ee")
 	)
 	(wire
 		(pts
@@ -7879,7 +8078,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 27.94) (xy 177.8 27.94)
+			(xy 171.45 27.94) (xy 180.34 27.94)
 		)
 		(stroke
 			(width 0)
@@ -7909,17 +8108,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 38.1) (xy 147.32 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "685d9a05-7124-4265-95fa-7f6669f3e0ad")
-	)
-	(wire
-		(pts
-			(xy 147.32 30.48) (xy 147.32 33.02)
+			(xy 149.86 30.48) (xy 149.86 33.02)
 		)
 		(stroke
 			(width 0)
@@ -8019,16 +8208,6 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 20.32) (xy 68.58 20.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "777b1b00-67b2-4e70-931a-e8449a0e07ac")
-	)
-	(wire
-		(pts
 			(xy 21.59 152.4) (xy 29.21 152.4)
 		)
 		(stroke
@@ -8049,7 +8228,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 27.94) (xy 168.91 27.94)
+			(xy 170.18 27.94) (xy 171.45 27.94)
 		)
 		(stroke
 			(width 0)
@@ -8099,7 +8278,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 33.02) (xy 147.32 35.56)
+			(xy 149.86 33.02) (xy 149.86 35.56)
 		)
 		(stroke
 			(width 0)
@@ -8126,6 +8305,16 @@
 			(type default)
 		)
 		(uuid "823ca5c2-9276-41fc-b4cc-54eb02b42974")
+	)
+	(wire
+		(pts
+			(xy 86.36 127) (xy 88.9 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "836e8c37-b535-4389-b844-f1b9185b3523")
 	)
 	(wire
 		(pts
@@ -8169,6 +8358,26 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 114.3) (xy 48.26 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "894d4b06-ea0e-4adf-a4bf-89e7293c9ae1")
+	)
+	(wire
+		(pts
+			(xy 146.05 52.07) (xy 148.59 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89556959-cb05-482a-8d0e-eda361efafef")
+	)
+	(wire
+		(pts
 			(xy 86.36 49.53) (xy 90.17 49.53)
 		)
 		(stroke
@@ -8189,7 +8398,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 35.56) (xy 168.91 35.56)
+			(xy 170.18 35.56) (xy 171.45 35.56)
 		)
 		(stroke
 			(width 0)
@@ -8249,13 +8458,13 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 46.99) (xy 147.32 48.26)
+			(xy 71.12 19.05) (xy 71.12 20.32)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9debf9b8-32fb-4430-92fc-840108d49445")
+		(uuid "a1b9fc61-d3b2-42e2-a869-83c418680177")
 	)
 	(wire
 		(pts
@@ -8329,16 +8538,6 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 127) (xy 76.2 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aa0b5b4e-ec69-478f-9315-56aa8355516d")
-	)
-	(wire
-		(pts
 			(xy 52.07 57.15) (xy 55.88 57.15)
 		)
 		(stroke
@@ -8376,16 +8575,6 @@
 			(type default)
 		)
 		(uuid "b22323a1-4021-4968-b688-c44f18d842bc")
-	)
-	(wire
-		(pts
-			(xy 86.36 127) (xy 88.9 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b22ed4a6-de18-488a-aecb-252ece9e59d2")
 	)
 	(wire
 		(pts
@@ -8509,6 +8698,16 @@
 	)
 	(wire
 		(pts
+			(xy 146.05 36.83) (xy 148.59 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3d2a3be-d996-434e-9c9a-744a0484cac6")
+	)
+	(wire
+		(pts
 			(xy 267.97 35.56) (xy 267.97 41.91)
 		)
 		(stroke
@@ -8579,6 +8778,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 129.54) (xy 88.9 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d349f152-9d6e-4063-9e06-0d6d4fa474ba")
+	)
+	(wire
+		(pts
 			(xy 227.33 135.89) (xy 236.22 135.89)
 		)
 		(stroke
@@ -8609,7 +8818,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 35.56) (xy 147.32 35.56)
+			(xy 134.62 35.56) (xy 149.86 35.56)
 		)
 		(stroke
 			(width 0)
@@ -8659,7 +8868,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 35.56) (xy 168.91 27.94)
+			(xy 171.45 35.56) (xy 171.45 27.94)
 		)
 		(stroke
 			(width 0)
@@ -8769,7 +8978,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 27.94) (xy 147.32 27.94)
+			(xy 134.62 27.94) (xy 149.86 27.94)
 		)
 		(stroke
 			(width 0)
@@ -8939,7 +9148,7 @@
 			)
 		)
 	)
-	(global_label "USB_DN"
+	(global_label "USB_DP"
 		(shape input)
 		(at 88.9 129.54 0)
 		(fields_autoplaced yes)
@@ -8949,9 +9158,9 @@
 			)
 			(justify left)
 		)
-		(uuid "13c42ebb-566f-47f3-bce5-e7dbf3097226")
+		(uuid "0d092ffa-db81-432c-8387-20bd9f4235fd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 99.2633 129.54 0)
+			(at 99.2028 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9395,30 +9604,6 @@
 			)
 		)
 	)
-	(global_label "USB_DN"
-		(shape input)
-		(at 73.66 129.54 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "63a4a9a5-6e08-49ac-a09c-bf12f1c7982d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 63.2967 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "DIN"
 		(shape input)
 		(at 182.88 133.35 180)
@@ -9456,6 +9641,30 @@
 		(uuid "6f7f4175-3e97-42e9-b4ad-5e066dc478ea")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 212.1891 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "USB_DP"
+		(shape input)
+		(at 73.66 129.54 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "71131cfd-f8e6-49d6-9642-14e9f66bddc7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 63.3572 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9600,30 +9809,6 @@
 		(uuid "91940c69-cefb-4746-860f-f357d857eee2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 58.6233 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "USB_DP"
-		(shape input)
-		(at 88.9 127 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "933ffb37-7b67-457d-a0c3-be1035b25f53")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 99.2028 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9827,6 +10012,30 @@
 			)
 		)
 	)
+	(global_label "USB_DN"
+		(shape input)
+		(at 73.66 127 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b5bd3e8e-5f98-4dfd-a639-d38baedc4d20")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 63.2967 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "DVDD"
 		(shape input)
 		(at 256.54 77.47 180)
@@ -10019,19 +10228,19 @@
 			)
 		)
 	)
-	(global_label "USB_DP"
+	(global_label "USB_DN"
 		(shape input)
-		(at 73.66 127 180)
+		(at 88.9 127 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
-		(uuid "e8e020d7-d053-4a65-af07-de8e229b2fac")
+		(uuid "e8b690c3-68ff-45a4-8f8e-296a3223355d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 63.3572 127 0)
+			(at 99.2633 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10039,7 +10248,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 	)
@@ -10233,7 +10442,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "4.7K"
 			(at 262.382 37.592 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10268,6 +10477,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 260.35 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 260.35 35.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C17673"
+			(at 260.35 35.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0805W8F4701T5E"
+			(at 260.35 35.56 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10392,7 +10634,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10kΩ"
+		(property "Value" "10K"
 			(at 56.134 27.178 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10426,6 +10668,39 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 54.61 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 54.61 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C25744"
+			(at 54.61 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0402WGF1002TCE"
 			(at 54.61 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -10472,7 +10747,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1uF"
 			(at 75.946 115.824 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10506,6 +10781,39 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 76.2 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 76.2 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C1525"
+			(at 76.2 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL05B104KO5NNNC"
+			(at 76.2 119.38 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10768,98 +11076,19 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:FerriteBead")
-		(at 240.03 128.27 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "0dcabfd0-f1b5-47dc-ad57-d6a21cdcd346")
-		(property "Reference" "FB1"
-			(at 244.602 125.476 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "FerriteBead"
-			(at 243.586 123.444 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
-			(at 240.03 130.048 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 240.03 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Ferrite bead"
-			(at 240.03 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "2945544d-fa5c-4bb6-8467-92b8b9035a4b")
-		)
-		(pin "1"
-			(uuid "d3d3c304-7e55-4742-863d-59833f75bd39")
-		)
-		(instances
-			(project "pcb_right"
-				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
-					(reference "FB1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 100.33 30.48 270)
+		(at 100.33 24.13 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0e83a2e2-64da-4a97-94ff-d1c68c8cc7af")
 		(property "Reference" "TP3"
-			(at 105.41 29.2099 90)
+			(at 105.41 22.8599 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10870,7 +11099,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 105.41 31.7499 90)
+			(at 105.41 25.3999 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10882,7 +11111,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 100.33 35.56 0)
+			(at 100.33 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10893,7 +11122,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 35.56 0)
+			(at 100.33 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10904,7 +11133,40 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 100.33 30.48 0)
+			(at 100.33 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 100.33 24.13 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" ""
+			(at 100.33 24.13 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 100.33 24.13 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11006,7 +11268,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 177.8 31.75 0)
+		(at 180.34 31.75 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11016,7 +11278,7 @@
 		(dnp no)
 		(uuid "175c5969-09d8-46b0-a728-5c1ac8ea5132")
 		(property "Reference" "C26"
-			(at 171.704 30.226 0)
+			(at 174.244 30.226 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11026,8 +11288,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uf"
-			(at 170.688 32.766 0)
+		(property "Value" "10uF"
+			(at 173.228 32.766 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11038,7 +11300,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 178.7652 35.56 0)
+			(at 181.3052 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11049,7 +11311,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 177.8 31.75 0)
+			(at 180.34 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11060,7 +11322,40 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 177.8 31.75 0)
+			(at 180.34 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 180.34 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C315248"
+			(at 180.34 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL05A106MP5NUNC"
+			(at 180.34 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11107,7 +11402,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1uF"
 			(at 265.049 65.913 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11151,6 +11446,39 @@
 				)
 			)
 		)
+		(property "Isat" ""
+			(at 267.97 59.69 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C1525"
+			(at 267.97 59.69 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL05B104KO5NNNC"
+			(at 267.97 59.69 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d09b53a0-d0bd-4c62-808d-4d2aab9d81a1")
 		)
@@ -11161,6 +11489,119 @@
 			(project "pcb_right"
 				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
 					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 100.33 31.75 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1a5f498f-0741-404f-83f8-34a5aa928eb4")
+		(property "Reference" "TP5"
+			(at 105.41 30.4799 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND"
+			(at 105.41 33.0199 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 100.33 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 100.33 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 100.33 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 100.33 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" ""
+			(at 100.33 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 100.33 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fd4bca59-0c30-4a0e-a779-7da36a5f2fe4")
+		)
+		(instances
+			(project "pcb_right"
+				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
+					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -11232,6 +11673,39 @@
 				)
 			)
 		)
+		(property "Isat" ""
+			(at 85.09 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C2868951"
+			(at 85.09 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TLV75528PDBVR"
+			(at 85.09 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "fa0ab22e-b321-4f57-a2fb-782ea192ca2b")
 		)
@@ -11262,9 +11736,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "1ddf474f-dadd-44f0-be1b-3002ad6e70b9")
 		(property "Reference" "TP1"
@@ -11290,7 +11764,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 86.36 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -11314,6 +11788,39 @@
 		)
 		(property "Description" "test point"
 			(at 86.36 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 86.36 39.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" ""
+			(at 86.36 39.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 86.36 39.37 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11358,7 +11865,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uf"
+		(property "Value" "1uF"
 			(at 97.79 180.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11402,6 +11909,39 @@
 				)
 			)
 		)
+		(property "Isat" ""
+			(at 93.98 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C52923"
+			(at 93.98 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL05A105KA5NQNC"
+			(at 93.98 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5a06fc77-be14-433d-ba08-80f0aefc532c")
 		)
@@ -11412,6 +11952,263 @@
 			(project "pcb_right"
 				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
 					(reference "C12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "MAX98357AETE_T_1")
+		(lib_id "MAX98357AETE_T:MAX98357AETE_T")
+		(at 200.66 138.43 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2220b34e-b732-43f7-a01b-cd2cad722554")
+		(property "Reference" "U2"
+			(at 200.66 118.11 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MAX98357AETE_T"
+			(at 200.66 120.65 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Master_lib:QFN50P300X300X80-17N"
+			(at 200.66 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 200.66 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Tiny, Low-Cost, PCM Class D Amplifier with Class AB Performance"
+			(at 200.66 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Analog Devices"
+			(at 200.66 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "TQFN-16 Maxim"
+			(at 200.66 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 200.66 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/MAX98357AETE+T/Analog+Devices/view-part/?ref=snap"
+			(at 200.66 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "MAX98357AETE+T"
+			(at 200.66 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=48842&manufacturer=Analog Devices&part_name=MAX98357AETE+T&search_term=None"
+			(at 200.66 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 200.66 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/MAX98357AETE+T/Analog+Devices/view-part/?ref=eda"
+			(at 200.66 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Isat" ""
+			(at 200.66 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C910544"
+			(at 200.66 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MAX98357AETE+T"
+			(at 200.66 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "16"
+			(uuid "fe6dff73-688a-49cc-b474-2ff9349d3cd5")
+		)
+		(pin "14"
+			(uuid "9c228055-82fe-4764-806e-5545456c55b6")
+		)
+		(pin "11"
+			(uuid "26339c83-4743-4e13-9dc1-39d4602c5fa0")
+		)
+		(pin "7"
+			(uuid "2b1a6539-64f2-452f-8ecf-ea9b3ba5cb71")
+		)
+		(pin "15"
+			(uuid "b40e7271-efa8-44ef-bb34-f1497f561e52")
+		)
+		(pin "6"
+			(uuid "3628db3d-7d22-4324-ae34-1eede46dc1c4")
+		)
+		(pin "1"
+			(uuid "15ee63aa-5a3d-4018-8cc5-da1eac4e1db4")
+		)
+		(pin "8"
+			(uuid "31f4415d-e78e-4187-8dac-1e0cf01b5f5f")
+		)
+		(pin "10"
+			(uuid "09c7ec07-0a47-40e7-8960-f9f74fc84bcf")
+		)
+		(pin "13"
+			(uuid "343e2ed7-0c22-4a93-8137-f7180ee91736")
+		)
+		(pin "17"
+			(uuid "7dc54426-dea6-49ac-b20f-a0a9c6bc5655")
+		)
+		(pin "4"
+			(uuid "7fdd4ab8-67ab-4b60-9b5e-572637431dcf")
+		)
+		(pin "3"
+			(uuid "62263c2c-9da8-467e-a750-85c5c832fdbb")
+		)
+		(pin "12"
+			(uuid "c39b30fb-c840-42e0-8fd1-210d68d410c3")
+		)
+		(pin "5"
+			(uuid "93d54d7b-22a5-4835-a6da-b62640a8991f")
+		)
+		(pin "2"
+			(uuid "ac941aab-c9e3-4880-b27c-8c4ebcf3afd0")
+		)
+		(pin "9"
+			(uuid "acd14422-0ca5-4ec1-947f-b1658648b1f1")
+		)
+		(instances
+			(project "pcb_right"
+				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -11473,6 +12270,39 @@
 			)
 		)
 		(property "Description" "500mA Low Dropout Voltage Regulator, Fixed Output 1.5V, SOT-23-5"
+			(at 147.32 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 147.32 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C2867152"
+			(at 147.32 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TLV75515PDBVR"
 			(at 147.32 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -11616,7 +12446,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HRS_TF31-6S-0.5SH_800_:HRS_TF31-6S-0.5SH_800_"
+		(property "Footprint" "Master_lib:HRS_TF31-6S-0.5SH_800_"
 			(at 25.4 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -11768,6 +12598,39 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+			)
+		)
+		(property "Isat" ""
+			(at 25.4 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C3195341"
+			(at 25.4 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TF31-6S-0.5SH(800)"
+			(at 25.4 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -11975,7 +12838,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uf"
+		(property "Value" "1uF"
 			(at 250.19 89.916 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12009,6 +12872,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 254 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 254 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C52923"
+			(at 254 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL05A105KA5NQNC"
 			(at 254 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -12193,6 +13089,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 100.33 35.56 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "35bfe1b4-173e-4149-8ce9-8e241d8f3a80")
+		(property "Reference" "#PWR063"
+			(at 93.98 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 97.79 35.56 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 100.33 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 100.33 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 100.33 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "21e59725-aee4-4681-9349-c5ea4db83980")
+		)
+		(instances
+			(project "pcb_right"
+				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
+					(reference "#PWR063")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 271.78 78.74 0)
 		(unit 1)
@@ -12292,7 +13266,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "100K"
 			(at 176.53 148.5899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12326,6 +13300,39 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 173.99 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 173.99 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C149504"
+			(at 173.99 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0805W8F1003T5E"
 			(at 173.99 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -12450,7 +13457,7 @@
 				)
 			)
 		)
-		(property "Value" "5.1kΩ"
+		(property "Value" "5.1K"
 			(at 51.054 116.586 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12493,6 +13500,39 @@
 				)
 			)
 		)
+		(property "Isat" ""
+			(at 50.8 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C25905"
+			(at 50.8 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0402WGF5101TCE"
+			(at 50.8 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f780f50e-1b0d-4bff-958a-3c03a3e8c5d1")
 		)
@@ -12503,87 +13543,6 @@
 			(project "pcb_right"
 				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
 					(reference "R5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 68.58 24.13 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "3f6c373a-9de7-4255-a335-ec18fdd91135")
-		(property "Reference" "C23"
-			(at 62.484 22.606 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "47uf"
-			(at 61.976 24.892 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 69.5452 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 68.58 24.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 68.58 24.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "23e17da9-43c4-4d43-97d8-efa2ea6e59bc")
-		)
-		(pin "2"
-			(uuid "106c5424-f3e1-4331-98a5-515c7d78bb1b")
-		)
-		(instances
-			(project "pcb_right"
-				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
-					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -12623,7 +13582,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RF_Module:ESP32-S2-MINI-1"
+		(property "Footprint" "Master_lib:ESP32-S2-MINI-1"
 			(at 86.36 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -12647,6 +13606,39 @@
 		)
 		(property "Description" "RF Module, ESP32-S3 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 3.3V, SMD, onboard antenna"
 			(at 71.12 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 71.12 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C3013941"
+			(at 71.12 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ESP32-S3-MINI-1-N4R2"
+			(at 71.12 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12882,7 +13874,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 266.319 73.025 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12917,6 +13909,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 267.97 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 267.97 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C17414"
+			(at 267.97 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0805W8F1002T5E"
+			(at 267.97 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12963,7 +13988,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "4.7K"
 			(at 262.382 43.942 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12998,6 +14023,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 260.35 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 260.35 41.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C17673"
+			(at 260.35 41.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0805W8F4701T5E"
+			(at 260.35 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13044,7 +14102,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uf"
+		(property "Value" "1uF"
 			(at 67.564 180.086 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13078,6 +14136,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 73.66 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 73.66 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C52923"
+			(at 73.66 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL05A105KA5NQNC"
 			(at 73.66 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -13126,7 +14217,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uf"
+		(property "Value" "1uF"
 			(at 160.02 180.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13160,6 +14251,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 156.21 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 156.21 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C52923"
+			(at 156.21 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL05A105KA5NQNC"
 			(at 156.21 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -13264,6 +14388,271 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 100.33 27.94 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4a65c042-8a5a-4217-a37a-2fff325abe6b")
+		(property "Reference" "TP4"
+			(at 105.41 26.6699 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND"
+			(at 105.41 29.2099 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 100.33 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 100.33 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 100.33 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 100.33 27.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" ""
+			(at 100.33 27.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 100.33 27.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fbc2408b-9eda-4e43-904d-b4f21ae688eb")
+		)
+		(instances
+			(project "pcb_right"
+				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
+					(reference "TP4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Lib_Solar_panels:BLM21PG600SN1D")
+		(at 236.22 128.27 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4cbca405-396c-487d-95e1-426a0ba8fd9c")
+		(property "Reference" "FB1"
+			(at 242.316 121.158 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BLM21PG600SN1D"
+			(at 242.316 123.698 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Master_lib:BLM21AG102BH1J"
+			(at 252.73 223.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/en-us/products/productdetail?partno=BLM21PG600SN1%23"
+			(at 252.73 323.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "Murata Ferrite Bead (Chip Ferrite Bead), 2 x 1.25 x 0.85mm (805), 60 impedance at 100 MHz"
+			(at 236.22 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "1.05"
+			(at 252.73 523.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "81-BLM21P600S"
+			(at 252.73 623.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/BLM21PG600SN1D?qs=LbqjZSvnDswFXSg06XQ50A%3D%3D"
+			(at 252.73 723.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "Murata Electronics"
+			(at 252.73 823.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "BLM21PG600SN1D"
+			(at 252.73 923.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "JLCPCB_Part#" "C18305"
+			(at 236.22 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "e72afd51-a92d-4fd6-a469-5a6b9fb1c0bf")
+		)
+		(pin "1"
+			(uuid "a4866e24-8e52-4177-82e5-e94e6423996d")
+		)
+		(instances
+			(project "pcb_right"
+				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
+					(reference "FB1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 160.02 135.89 0)
 		(unit 1)
@@ -13271,7 +14660,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e56dd0d-a00c-4a21-8c45-196f903fca6a")
@@ -13328,6 +14717,39 @@
 				)
 			)
 		)
+		(property "Isat" ""
+			(at 160.02 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" ""
+			(at 160.02 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 160.02 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1ff8f650-76f5-43f6-863f-b0067669daee")
 		)
@@ -13345,7 +14767,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 71.12 20.32 0)
+		(at 71.12 19.05 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13353,10 +14775,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "506e4c32-d208-4acf-a356-1c0d8ad758ae")
 		(property "Reference" "#PWR045"
-			(at 71.12 24.13 0)
+			(at 71.12 22.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13367,7 +14788,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 71.12 15.24 0)
+			(at 71.12 15.494 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13377,7 +14798,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 71.12 20.32 0)
+			(at 71.12 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13388,7 +14809,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 20.32 0)
+			(at 71.12 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13399,7 +14820,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 71.12 20.32 0)
+			(at 71.12 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13443,7 +14864,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1UF"
+		(property "Value" "0.1uF"
 			(at 223.774 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13477,6 +14898,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 223.52 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 223.52 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C49678"
+			(at 223.52 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CC0805KRX7R9BB104"
 			(at 223.52 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -13524,7 +14978,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uf"
+		(property "Value" "1uF"
 			(at 234.95 89.916 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13558,6 +15012,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 240.03 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 240.03 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C52923"
+			(at 240.03 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL05A105KA5NQNC"
 			(at 240.03 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -13692,7 +15179,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810"
 			(at 49.53 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -13715,6 +15202,39 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 49.53 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 49.53 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C221895"
+			(at 49.53 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PTS810SJG250SMTRLFS"
 			(at 49.53 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -13997,7 +15517,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 258.826 53.086 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14032,6 +15552,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 260.35 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 260.35 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C17414"
+			(at 260.35 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0805W8F1002T5E"
+			(at 260.35 48.26 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14078,7 +15631,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uF"
 			(at 274.574 89.662 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14122,6 +15675,39 @@
 				)
 			)
 		)
+		(property "Isat" ""
+			(at 274.32 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C1525"
+			(at 274.32 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL05B104KO5NNNC"
+			(at 274.32 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "88db7ebf-8fda-4aea-855a-532dfa90deb0")
 		)
@@ -14132,6 +15718,207 @@
 			(project "pcb_right"
 				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
 					(reference "C22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "DFE252012F-2R2M=P2_1")
+		(lib_id "Master_lib:DFE252012F-2R2M=P2")
+		(at 146.05 44.45 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "56db0fa3-746e-4855-a287-00b94eec9801")
+		(property "Reference" "L1"
+			(at 138.684 40.894 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "2.2uH"
+			(at 138.684 43.434 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Master_lib:INDC2520X120N"
+			(at 146.05 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 146.05 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Inductor with Inductance: 2.2uH Tol. +/-20%, Package: 1008 (2520)"
+			(at 146.05 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Murata"
+			(at 146.05 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "2520 Murata"
+			(at 146.05 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 146.05 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/DFE252012F-2R2M=P2/Murata/view-part/?ref=snap"
+			(at 146.05 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "DFE252012F-2R2M=P2"
+			(at 146.05 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 146.05 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/DFE252012F-2R2M=P2/Murata/view-part/?ref=eda"
+			(at 146.05 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Isat" ""
+			(at 146.05 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C576403"
+			(at 146.05 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "DFE252012F-2R2M=P2"
+			(at 146.05 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9428e37b-033a-4e22-934e-c36a1f747540")
+		)
+		(pin "2"
+			(uuid "213ae9c2-3e68-45a9-964e-0740a25dfd85")
+		)
+		(instances
+			(project "pcb_right"
+				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
+					(reference "L1")
 					(unit 1)
 				)
 			)
@@ -14358,6 +16145,39 @@
 				)
 			)
 		)
+		(property "Isat" ""
+			(at 231.14 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C202112"
+			(at 231.14 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "FH12-24S-0.5SH(55)"
+			(at 231.14 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e231642e-e5cf-48a7-a23a-71ce21a4ed4e")
 		)
@@ -14512,6 +16332,39 @@
 				)
 			)
 		)
+		(property "Isat" ""
+			(at 81.28 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C7519"
+			(at 81.28 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "USBLC6-2SC6"
+			(at 81.28 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "93b39855-654e-4105-8c76-66699c79689c")
 		)
@@ -14561,7 +16414,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uf"
+		(property "Value" "0.1uF"
 			(at 128.524 43.434 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14595,6 +16448,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 134.62 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 134.62 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C1525"
+			(at 134.62 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL05B104KO5NNNC"
 			(at 134.62 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -14719,7 +16605,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uf"
+		(property "Value" "1uF"
 			(at 129.794 180.086 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14763,6 +16649,39 @@
 				)
 			)
 		)
+		(property "Isat" ""
+			(at 135.89 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C52923"
+			(at 135.89 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL05A105KA5NQNC"
+			(at 135.89 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b5e80a3d-18c4-417a-aeea-050d24405bf8")
 		)
@@ -14773,228 +16692,6 @@
 			(project "pcb_right"
 				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
 					(reference "C14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MAX98357AETE_T:MAX98357AETE_T")
-		(at 200.66 138.43 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "605256ec-b5ce-4878-9001-c8560e7a55e8")
-		(property "Reference" "U2"
-			(at 200.66 118.11 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MAX98357AETE_T"
-			(at 200.66 120.65 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "MAX98357A:QFN50P300X300X80-17N"
-			(at 200.66 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 200.66 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 200.66 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "Analog Devices"
-			(at 200.66 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Description_1" "Tiny, Low-Cost, PCM Class D Amplifier with Class AB Performance"
-			(at 200.66 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "TQFN-16 Maxim"
-			(at 200.66 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 200.66 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/MAX98357AETE+T/Analog+Devices/view-part/?ref=snap"
-			(at 200.66 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "MAX98357AETE+T"
-			(at 200.66 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=48842&manufacturer=Analog Devices&part_name=MAX98357AETE+T&search_term=None"
-			(at 200.66 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 200.66 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/MAX98357AETE+T/Analog+Devices/view-part/?ref=eda"
-			(at 200.66 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "16"
-			(uuid "7297aabb-937c-4c76-8ce9-134ad1d61f83")
-		)
-		(pin "1"
-			(uuid "bb53fb0a-c8ad-43fb-bfb6-9540d3ba25fc")
-		)
-		(pin "2"
-			(uuid "38818dc6-b145-463c-af43-416c5d2dda40")
-		)
-		(pin "14"
-			(uuid "c19f5dae-08c9-4732-b194-6734096f3215")
-		)
-		(pin "4"
-			(uuid "eccd8278-fa3f-4f87-a4a4-87941b240b8a")
-		)
-		(pin "7"
-			(uuid "40254a78-eb8e-46d0-915b-3eb829e29f1f")
-		)
-		(pin "8"
-			(uuid "6b224161-749e-4820-967b-e467eccd44b1")
-		)
-		(pin "10"
-			(uuid "124c123c-408a-4b6c-97a2-d5cfb052d98d")
-		)
-		(pin "9"
-			(uuid "f2a37963-082d-44ec-80de-6f038afa9cf7")
-		)
-		(pin "17"
-			(uuid "af844cb3-3f51-49df-9fbf-f3aa4033420d")
-		)
-		(pin "11"
-			(uuid "ace97044-c5be-47f3-a40d-d7891fec9204")
-		)
-		(pin "15"
-			(uuid "63e8265c-32e3-4315-8205-133c72243ad6")
-		)
-		(pin "3"
-			(uuid "1d899179-59cf-4760-b711-13e388f7db13")
-		)
-		(instances
-			(project "pcb_right"
-				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
-					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -15073,84 +16770,6 @@
 			(project "pcb_right"
 				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
 					(reference "#PWR051")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 68.58 27.94 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "623e3745-949b-4b56-9bb0-3b4ab908cbd6")
-		(property "Reference" "#PWR053"
-			(at 68.58 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 62.738 29.464 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 68.58 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 68.58 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 68.58 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "6b540ba1-93f8-41d1-994f-e5a7b8ace3c8")
-		)
-		(instances
-			(project "pcb_right"
-				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
-					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -15411,7 +17030,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uF"
 			(at 259.334 89.916 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15445,6 +17064,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 259.08 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 259.08 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C1525"
+			(at 259.08 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL05B104KO5NNNC"
 			(at 259.08 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -15628,6 +17280,308 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 100.33 27.94 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "75207a54-487e-47c4-8fca-ffeacad45dd8")
+		(property "Reference" "#PWR053"
+			(at 104.14 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 94.742 27.94 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 100.33 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 100.33 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 100.33 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e7e6242d-7b03-4185-8135-04a2aeaf3dfd")
+		)
+		(instances
+			(project "pcb_right"
+				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
+					(reference "#PWR053")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 100.33 35.56 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7aa1b963-c942-4b4e-bd48-ef0b216b97fd")
+		(property "Reference" "TP6"
+			(at 105.41 34.2899 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND"
+			(at 105.41 36.8299 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 100.33 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 100.33 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 100.33 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 100.33 35.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" ""
+			(at 100.33 35.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 100.33 35.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9309e434-eba3-4d62-913c-f079b0e5389f")
+		)
+		(instances
+			(project "pcb_right"
+				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
+					(reference "TP6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 52.07 114.3 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files no)
+		(dnp no)
+		(uuid "7bc437d3-4c58-41ae-b457-4df7298085da")
+		(property "Reference" "JP3"
+			(at 54.102 108.712 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 54.102 111.252 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+			(at 52.07 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 52.07 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 52.07 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 52.07 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" ""
+			(at 52.07 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 52.07 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "909d371d-3ba6-44f1-bad5-7d2f94a154ce")
+		)
+		(pin "2"
+			(uuid "3f72de78-47da-4e22-9588-451c1179f225")
+		)
+		(instances
+			(project "pcb_right"
+				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
+					(reference "JP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 44.45 39.37 270)
 		(unit 1)
@@ -15725,7 +17679,7 @@
 				)
 			)
 		)
-		(property "Value" "5.1kΩ"
+		(property "Value" "5.1K"
 			(at 51.054 123.952 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15759,6 +17713,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 50.8 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 50.8 121.92 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C25905"
+			(at 50.8 121.92 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0402WGF5101TCE"
+			(at 50.8 121.92 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15864,7 +17851,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 177.8 35.56 0)
+		(at 180.34 35.56 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15875,7 +17862,7 @@
 		(fields_autoplaced yes)
 		(uuid "840f015f-02e1-4fdc-8ce6-edcb4d05e182")
 		(property "Reference" "#PWR059"
-			(at 177.8 41.91 0)
+			(at 180.34 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15886,7 +17873,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 177.8 40.64 0)
+			(at 180.34 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15896,7 +17883,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 177.8 35.56 0)
+			(at 180.34 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15907,7 +17894,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 177.8 35.56 0)
+			(at 180.34 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15918,7 +17905,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 177.8 35.56 0)
+			(at 180.34 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16013,85 +18000,6 @@
 			(project "pcb_right"
 				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
 					(reference "#PWR027")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:FerriteBead")
-		(at 240.03 135.89 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "880fd08d-afd9-4deb-acf8-c8ff7c0fb5a5")
-		(property "Reference" "FB2"
-			(at 244.602 137.668 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "FerriteBead"
-			(at 244.094 140.208 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
-			(at 240.03 137.668 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 240.03 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Ferrite bead"
-			(at 240.03 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "29b15d01-9446-4892-be99-758fdf4798f9")
-		)
-		(pin "1"
-			(uuid "1fef9073-5dbd-4454-ad36-7d2d8ed48849")
-		)
-		(instances
-			(project "pcb_right"
-				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
-					(reference "FB2")
 					(unit 1)
 				)
 			)
@@ -16208,7 +18116,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
+		(property "Footprint" "Master_lib:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
 			(at 33.02 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -16231,6 +18139,39 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 14P Type-C Receptacle connector"
+			(at 29.21 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 29.21 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C165948"
+			(at 29.21 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TYPE-C-31-M-12"
 			(at 29.21 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -16317,7 +18258,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10UF"
+		(property "Value" "10uF"
 			(at 231.902 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16351,6 +18292,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 231.14 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 231.14 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C15850"
+			(at 231.14 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL21A106KAYNNNE"
 			(at 231.14 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -16532,6 +18506,158 @@
 		)
 	)
 	(symbol
+		(lib_id "Lib_Solar_panels:BLM21PG600SN1D")
+		(at 236.22 135.89 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "996a5592-140c-4989-8348-f5a5be7eb6e7")
+		(property "Reference" "FB2"
+			(at 239.776 140.462 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BLM21PG600SN1D"
+			(at 239.776 143.002 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Master_lib:BLM21AG102BH1J"
+			(at 252.73 230.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://www.murata.com/en-us/products/productdetail?partno=BLM21PG600SN1%23"
+			(at 252.73 330.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "Murata Ferrite Bead (Chip Ferrite Bead), 2 x 1.25 x 0.85mm (805), 60 impedance at 100 MHz"
+			(at 236.22 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "1.05"
+			(at 252.73 530.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "81-BLM21P600S"
+			(at 252.73 630.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/BLM21PG600SN1D?qs=LbqjZSvnDswFXSg06XQ50A%3D%3D"
+			(at 252.73 730.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "Murata Electronics"
+			(at 252.73 830.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "BLM21PG600SN1D"
+			(at 252.73 930.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "JLCPCB_Part#" "C18305"
+			(at 236.22 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1438815d-77e8-4c5e-b815-9d71436bb167")
+		)
+		(pin "1"
+			(uuid "49041c4c-dfb2-46f5-80f5-c31c1558803d")
+		)
+		(instances
+			(project "pcb_right"
+				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
+					(reference "FB2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 251.46 115.57 180)
 		(unit 1)
@@ -16688,98 +18814,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:L")
-		(at 147.32 43.18 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "a1c4d888-aac7-4cca-ba97-0b3c203b6206")
-		(property "Reference" "L1"
-			(at 140.716 41.656 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "2.2uH"
-			(at 140.716 44.196 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Package_SON:Texas_DRC0010J_ThermalVias"
-			(at 147.32 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 147.32 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Inductor"
-			(at 147.32 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Isat" ">= 2A"
-			(at 147.32 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "f749a365-d506-4124-b854-6d9ddcc816eb")
-		)
-		(pin "1"
-			(uuid "4e8890bc-1235-43ee-a7d7-e7cc6293b0ee")
-		)
-		(instances
-			(project "pcb_right"
-				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
-					(reference "L1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 120.65 27.94 90)
 		(unit 1)
@@ -16859,6 +18893,85 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 59.69 114.3 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a5e42d86-5dbf-49ab-8391-5c72c8cdcd95")
+		(property "Reference" "#PWR018"
+			(at 55.88 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 63.5 114.2999 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 59.69 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 59.69 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 59.69 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6c9ce0b1-0457-46a4-9a3b-178d9ae8153a")
+		)
+		(instances
+			(project "pcb_right"
+				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 41.91 49.53 90)
 		(unit 1)
@@ -16892,7 +19005,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810"
 			(at 36.83 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -16925,6 +19038,39 @@
 				)
 			)
 		)
+		(property "Isat" ""
+			(at 41.91 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C221895"
+			(at 41.91 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PTS810SJG250SMTRLFS"
+			(at 41.91 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3090bc57-7da3-4670-b844-73d63fc1d5a5")
 		)
@@ -16942,7 +19088,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 100.33 30.48 270)
+		(at 100.33 24.13 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16952,7 +19098,7 @@
 		(dnp no)
 		(uuid "abdb0861-1214-4fbf-9a54-1fad774c7380")
 		(property "Reference" "#PWR052"
-			(at 93.98 30.48 0)
+			(at 93.98 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16963,7 +19109,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 97.79 30.48 90)
+			(at 97.79 24.13 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16974,7 +19120,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 100.33 30.48 0)
+			(at 100.33 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16985,7 +19131,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 30.48 0)
+			(at 100.33 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16996,7 +19142,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 100.33 30.48 0)
+			(at 100.33 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17020,7 +19166,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 182.88 31.75 0)
+		(at 185.42 31.75 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17030,7 +19176,7 @@
 		(dnp no)
 		(uuid "b00fe864-5b6a-455c-8c65-554d690d67fb")
 		(property "Reference" "C27"
-			(at 187.198 30.48 0)
+			(at 189.738 30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17040,8 +19186,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uf"
-			(at 186.182 33.02 0)
+		(property "Value" "10uF"
+			(at 188.722 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17052,7 +19198,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 183.8452 35.56 0)
+			(at 186.3852 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17063,7 +19209,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 182.88 31.75 0)
+			(at 185.42 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17074,7 +19220,40 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 182.88 31.75 0)
+			(at 185.42 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 185.42 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C315248"
+			(at 185.42 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL05A106MP5NUNC"
+			(at 185.42 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17121,7 +19300,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uf"
+		(property "Value" "0.1uF"
 			(at 30.734 52.324 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17165,6 +19344,39 @@
 				)
 			)
 		)
+		(property "Isat" ""
+			(at 36.83 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C1525"
+			(at 36.83 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL05B104KO5NNNC"
+			(at 36.83 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bf197f15-3361-47d0-b41d-68685499337a")
 		)
@@ -17182,7 +19394,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 185.42 27.94 270)
+		(at 187.96 27.94 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17193,7 +19405,7 @@
 		(fields_autoplaced yes)
 		(uuid "b5d18690-6cfd-41f6-8fc3-a7f5630a0a44")
 		(property "Reference" "#PWR055"
-			(at 181.61 27.94 0)
+			(at 184.15 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17204,7 +19416,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 189.23 27.9399 90)
+			(at 191.77 27.9399 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17215,7 +19427,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 185.42 27.94 0)
+			(at 187.96 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17226,7 +19438,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 27.94 0)
+			(at 187.96 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17237,7 +19449,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 185.42 27.94 0)
+			(at 187.96 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17261,7 +19473,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 154.94 53.34 0)
+		(at 157.48 53.34 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17272,7 +19484,7 @@
 		(fields_autoplaced yes)
 		(uuid "b61d592c-cc2a-4697-af93-115d61b13fe5")
 		(property "Reference" "#PWR058"
-			(at 154.94 59.69 0)
+			(at 157.48 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17283,7 +19495,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 154.94 58.42 0)
+			(at 157.48 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17293,7 +19505,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 53.34 0)
+			(at 157.48 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17304,7 +19516,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 53.34 0)
+			(at 157.48 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17315,7 +19527,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 154.94 53.34 0)
+			(at 157.48 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17437,7 +19649,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220PF"
+		(property "Value" "220pF"
 			(at 255.27 120.6499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17471,6 +19683,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 251.46 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 251.46 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C107145"
+			(at 251.46 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CC0805KRX7R9BB221"
 			(at 251.46 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -17596,7 +19841,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uf"
+		(property "Value" "1uF"
 			(at 265.938 89.662 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17630,6 +19875,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 269.24 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 269.24 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C52923"
+			(at 269.24 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL05A105KA5NQNC"
 			(at 269.24 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -17677,7 +19955,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uf"
+		(property "Value" "0.1uF"
 			(at 87.884 25.146 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17711,6 +19989,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 85.09 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 85.09 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C1525"
+			(at 85.09 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL05B104KO5NNNC"
 			(at 85.09 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -17916,7 +20227,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220PF"
+		(property "Value" "220pF"
 			(at 255.27 144.7799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17950,6 +20261,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 251.46 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 251.46 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C107145"
+			(at 251.46 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CC0805KRX7R9BB221"
 			(at 251.46 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -17997,7 +20341,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "100K"
 			(at 167.386 148.336 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18031,6 +20375,39 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 166.37 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 166.37 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C149504"
+			(at 166.37 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0805W8F1003T5E"
 			(at 166.37 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -18136,7 +20513,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 182.88 35.56 0)
+		(at 185.42 35.56 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18147,7 +20524,7 @@
 		(fields_autoplaced yes)
 		(uuid "ce7f96ed-8fea-4b12-84f2-5f4551bc6aa9")
 		(property "Reference" "#PWR060"
-			(at 182.88 41.91 0)
+			(at 185.42 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18158,7 +20535,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 182.88 40.64 0)
+			(at 185.42 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18168,7 +20545,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 182.88 35.56 0)
+			(at 185.42 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18179,7 +20556,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 182.88 35.56 0)
+			(at 185.42 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18190,7 +20567,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 182.88 35.56 0)
+			(at 185.42 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18284,6 +20661,85 @@
 			(project "pcb_right"
 				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
 					(reference "#PWR061")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 100.33 31.75 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d35cbfbb-c9a6-4a8b-984b-18dacdab93af")
+		(property "Reference" "#PWR062"
+			(at 104.14 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 96.52 31.7499 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 100.33 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 100.33 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 100.33 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "52de64ff-8c38-42e1-b5ea-1f6162de4d07")
+		)
+		(instances
+			(project "pcb_right"
+				(path "/a00f517e-5f07-4f05-b259-a87d5d4ef0d7"
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -18526,7 +20982,7 @@
 	)
 	(symbol
 		(lib_id "Regulator_Switching:TPS63001")
-		(at 157.48 38.1 0)
+		(at 160.02 38.1 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18537,7 +20993,7 @@
 		(fields_autoplaced yes)
 		(uuid "e099d94e-2127-472c-bd6f-565bc693d115")
 		(property "Reference" "U6"
-			(at 157.48 20.32 0)
+			(at 160.02 20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18547,7 +21003,7 @@
 			)
 		)
 		(property "Value" "TPS63001"
-			(at 157.48 22.86 0)
+			(at 160.02 22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18556,8 +21012,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SON:Texas_DRC0010J_ThermalVias"
-			(at 179.07 52.07 0)
+		(property "Footprint" "Master_lib:Texas_DRC0010J_ThermalVias"
+			(at 181.61 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18568,7 +21024,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tps63000.pdf"
-			(at 149.86 24.13 0)
+			(at 152.4 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18579,7 +21035,40 @@
 			)
 		)
 		(property "Description" "Buck-Boost Converter, 1.8-5.5V Input Voltage, 1.7A Switch Current, 3.3V Output Voltage, VSON-10"
-			(at 157.48 38.1 0)
+			(at 160.02 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 160.02 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C28060"
+			(at 160.02 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TPS63001DRCR"
+			(at 160.02 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18808,7 +21297,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10kΩ"
+		(property "Value" "10K"
 			(at 26.289 49.403 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18843,6 +21332,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 29.21 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 29.21 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C25744"
+			(at 29.21 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0402WGF1002TCE"
+			(at 29.21 44.45 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18890,7 +21412,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100R"
 			(at 137.16 33.0199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18924,6 +21446,39 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 134.62 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 134.62 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C17408"
+			(at 134.62 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0805W8F1000T5E"
 			(at 134.62 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -18971,7 +21526,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uf"
+		(property "Value" "10uF"
 			(at 118.618 32.766 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19015,6 +21570,39 @@
 				)
 			)
 		)
+		(property "Isat" ""
+			(at 125.73 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C315248"
+			(at 125.73 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL05A106MP5NUNC"
+			(at 125.73 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dcff4ba2-9eff-4023-9a92-ec2c61bb9b9a")
 		)
@@ -19036,9 +21624,9 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "edf3d6eb-e960-4ecb-9a61-01d57318affd")
 		(property "Reference" "TP2"
@@ -19088,6 +21676,39 @@
 		)
 		(property "Description" "test point"
 			(at 86.36 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 86.36 41.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" ""
+			(at 86.36 41.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 86.36 41.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19209,7 +21830,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 49.276 38.1 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19244,6 +21865,39 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 50.8 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 50.8 39.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C52923"
+			(at 50.8 39.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL05A105KA5NQNC"
+			(at 50.8 39.37 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19290,7 +21944,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uf"
+		(property "Value" "10uF"
 			(at 73.152 25.146 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19324,6 +21978,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 80.01 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 80.01 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C315248"
+			(at 80.01 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL05A106MP5NUNC"
 			(at 80.01 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -19433,10 +22120,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_pos_files no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "fb788ea5-142d-40e5-b0a4-c0a73cbd1b59")
 		(property "Reference" "J2"
@@ -19494,6 +22181,39 @@
 				)
 			)
 		)
+		(property "Isat" ""
+			(at 270.51 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" ""
+			(at 270.51 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 270.51 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3f740878-c5ad-470a-9960-50816c94b980")
 		)
@@ -19531,7 +22251,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uF"
 			(at 244.094 89.916 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19565,6 +22285,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 245.11 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Isat" ""
+			(at 245.11 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB_Part#" "C1525"
+			(at 245.11 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL05B104KO5NNNC"
 			(at 245.11 85.09 0)
 			(hide yes)
 			(show_name no)

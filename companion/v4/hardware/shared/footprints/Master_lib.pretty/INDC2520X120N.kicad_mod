@@ -1,0 +1,176 @@
+(footprint "INDC2520X120N"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.71 -1.7 0)
+		(layer "F.SilkS")
+		(uuid "f28dad8a-04cd-4bf9-89a0-b6a658f538b4")
+		(effects
+			(font
+				(size 0.393701 0.393701)
+				(thickness 0.098425)
+			)
+		)
+	)
+	(property "Value" "INDC2520X120N"
+		(at 1.29 1.7 0)
+		(layer "F.Fab")
+		(uuid "089eaa24-266f-4d08-a3f7-1be9036dfd41")
+		(effects
+			(font
+				(size 0.393701 0.393701)
+				(thickness 0.098425)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ed0c9b78-ed5b-425e-b5c4-85e92578037f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9b227a0a-5dc5-4e75-bd9e-c1c625028fe3")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.15 -1.1)
+		(end 0.15 -1.1)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "67bc4762-b63c-4f63-b6c6-8a7a76e59dd4")
+	)
+	(fp_line
+		(start -0.15 1.1)
+		(end 0.15 1.1)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "67b74520-1f76-4b35-b588-37535e02f333")
+	)
+	(fp_line
+		(start -1.958 -1.358)
+		(end 1.958 -1.358)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e71ffcb0-944d-4452-a634-fe670e1c8a65")
+	)
+	(fp_line
+		(start -1.958 1.358)
+		(end -1.958 -1.358)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9c9e2960-38e0-4b9b-be4c-fd0638748385")
+	)
+	(fp_line
+		(start -1.958 1.358)
+		(end 1.958 1.358)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1149a441-8c09-4fa4-82cc-e66fab0b3148")
+	)
+	(fp_line
+		(start 1.958 1.358)
+		(end 1.958 -1.358)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "13061a56-ba0e-4da4-9174-0254e0cb5c59")
+	)
+	(fp_line
+		(start -1.35 1.1)
+		(end -1.35 -1.1)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "aa139496-99d2-41c3-a8d6-e28799870fcf")
+	)
+	(fp_line
+		(start 1.35 -1.1)
+		(end -1.35 -1.1)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8054725c-65d6-46fd-87c6-4dabc66c7b1b")
+	)
+	(fp_line
+		(start 1.35 1.1)
+		(end -1.35 1.1)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6f5e6433-6142-4f88-95bc-6f8e4a6efd8b")
+	)
+	(fp_line
+		(start 1.35 1.1)
+		(end 1.35 -1.1)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2bdeb63f-6658-4897-a117-8e1d30983fbf")
+	)
+	(pad "1" smd rect
+		(at -1.09 0)
+		(size 1.24 2.22)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c1cdbcd3-02ff-4801-99ad-331b997582cc")
+	)
+	(pad "2" smd rect
+		(at 1.09 0)
+		(size 1.24 2.22)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "26ab6b08-77b4-4f89-ba61-ffdcdc4ff9c2")
+	)
+	(embedded_fonts no)
+	(model "C:/Dev/Fiverr/Fiverr_ckim2008/Drakon_AIGlasses (1)/Drakon_AIGlasses/companion/v4/hardware/shared/3D_Bodies/DFE252012F-2R2M_P2.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
