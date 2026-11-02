@@ -53,6 +53,14 @@ venv/
 Thumbs.db
 *.swp
 
+# --- Xcode -------------------------------------------------------------
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.xcarchive
+*.ipa
+.build/
+
 # KiCad local history
 .history/
 *-backups/

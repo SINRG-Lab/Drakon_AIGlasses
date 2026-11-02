@@ -1,6 +1,9 @@
 # Firmware — companion/v3
 
-Embedded source targeting this board version.
+This directory is a placeholder for embedded source targeting the ESP32-C6 v3
+boards. The imported XIAO ESP32-S3 Sense development sketch lives at
+[`../../firmware/S3_App_V2/`](../../firmware/S3_App_V2/); it uses a different
+pin map and does not target these boards.
 
 - `src/` — application and driver sources
 - `include/` — public headers
